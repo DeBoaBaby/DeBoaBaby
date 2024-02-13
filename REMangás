@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: RE Mangás",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.remangas",
+    "apk": "tachiyomi-pt.REMangás-v1.4.1.apk",
+    "lang": "pt",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "REMangás",
+        "lang": "pt",
+        "id": "1843646695111412994",
+        "baseUrl": "https://remangas.net/",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  }
